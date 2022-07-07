@@ -70,7 +70,7 @@ O potenciômetro é um resistor com resistência variável. Sua função no proj
 ## Circuito no Falstad
 <img src="./Imagens/circuitoFalstad.png">
 
-Link para o circuito: https://tinyurl.com/2b8vw6qc
+Para acessar o circuito no Falstad clique [AQUI](https://tinyurl.com/2b8vw6qc).
 
 ## Esquemático no Eagle
 
@@ -82,7 +82,7 @@ Link para o circuito: https://tinyurl.com/2b8vw6qc
 
 ## Vídeo explicando e mostrando a fonte
 
-ADICIONAR LINK YOUTUBE AQUI (TENTAR EMBEDDING)
+https://youtu.be/U6hq4gx4mk4
 
 ## Alunos
 
